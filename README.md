@@ -184,9 +184,7 @@ The HotelStay project demonstrates an end-to-end business intelligence workflow,
 
 **Shyamala Devi N**
 
-- GitHub: [Visit My GitHub Profile](https://github.com/yogitha0406)
-- LinkedIn: [Connect with Me](https://www.linkedin.com/in/yogitha-devi/)
 
----
+
 
 *Developed using Microsoft Power BI Desktop.*
